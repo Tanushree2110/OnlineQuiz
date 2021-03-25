@@ -51,16 +51,14 @@
 		<link rel="stylesheet" href="scripts/bootstrap/bootstrap.min.css">
 		<link rel="stylesheet" href="scripts/ionicons/css/ionicons.min.css">
 		<link rel="stylesheet" href="css/form.css">
-        <style type="text/css">
-            body{
-                  width: 100%;
-                  background: url(image/book.png) ;
-                  background-position: center center;
-                  background-repeat: no-repeat;
-                  background-attachment: fixed;
-                  background-size: cover;
-                }
-          </style>
+
+              <style type="text/css">
+                  body{
+                        width: 100%;
+                        background-color:rgb(120,120,120);
+                      }
+                </style>
+              
 	</head>
 
 	<body>
